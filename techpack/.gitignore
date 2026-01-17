@@ -2,3 +2,6 @@
 */
 !/audio/
 !/stub/
+
+# Allow config folder inside audio
+!/audio/config/
